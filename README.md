@@ -5,7 +5,7 @@ Objective:
 This project will apply the skills learned in Module 5 – Matplotlib. This utilizes the skills in telling the story behind the data through statistical analysis and creating plots. 
 
 Project Details:
-Analyzes the animal study data saved csv files to compare the performance of a drug of interest, Capomuli versus the other treatment regimens.
+Analyzes the animal study data saved in csv files to compare the performance of a drug of interest, Capomuli versus the other treatment regimens.
  
 Clean the data needed for analysis and creates the following summary reports :
 -    Summary statistics for the treatment Capomuli 
