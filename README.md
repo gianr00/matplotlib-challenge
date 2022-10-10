@@ -2,12 +2,12 @@
 
 Author: Rosie Gianan, gianr00@gmail.com
 
-Build With: Python, Pandas, Matplotlib, Numpy, jupyter notebook, csv files.  
+Build with: Python, Pandas, Matplotlib, Numpy, Jupyter notebook  
 
-## Goals:
+## Objective:
 Analyze the animal study data saved in csv files to compare the performance of a drug of interest, Capomulin versus the other treatment regimens. The file has data for 249 mice identified with SCC tumor growth were treated with a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. 
 
-## Solutions:
+## Solution:
 Build a visualization script to compare the performance of Pharmaceuticals' drug of interest, Capomulin, versus the other treatment regimens. Create the visualization plots for the following summary reports:
 
 -    Summary statistics for the treatment
